@@ -11,4 +11,4 @@
 
 
 
-<img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="40" height="40" alt="gif here"/>
+<img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="300" height="300" alt="gif here"/>
