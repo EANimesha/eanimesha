@@ -9,7 +9,4 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: nimeshadilini999@gmail.com
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eanimesha&show_icons=true&hide_border=true)
-
-
-<img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="300" height="300" alt="gif here"/>
+![Github stats](https://github-readme-stats.vercel.app/api?username=eanimesha&show_icons=true&hide_border=true) <img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="300" height="300" alt="gif here"/>
