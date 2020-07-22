@@ -1,9 +1,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-### Hi there I am Nimesha Dilini👋 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+### Hi there I am Nimesha Dilini 👋 
+#### Software Enginnering Undergraduate, University of Kelaniya<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
-- 🌱 I’m currently learning Software Engineering at University of Kelaniya
-- 😄 I am expereinced with full stack development, Web developmeent 
+- 🌱 I’m currently studing level 3 - Bsc(hons) in Software Engineering 
+- 😄 I am expereinced with full stack development, Web developmeent & Mobila App developments
 - ⚡ I am an tech enthusiastic && seeking Knowledge in areas like Machine Learning, IoT.
 - 👯 I’m looking for a great internship
 - 🤔 I’m looking for help other coders to improve my knowledge
