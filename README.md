@@ -12,4 +12,9 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: nimeshadilini999@gmail.com
 
+#### Open Source Contributions ⚡⚡⚡
+- https://github.com/alexrobaina/frontend_petsLove #2
+- https://github.com/Aniket762/Project-alpha #10
+- https://github.com/krishrahul98/DSA-Library #36
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eanimesha&show_icons=true&hide_border=true) <img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="300" height="300" alt="gif here"/>
