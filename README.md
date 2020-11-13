@@ -12,5 +12,6 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: nimeshadilini999@gmail.com
 - <b>Open Source Contributer</b> ⚡⚡⚡
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=EANimesha&label=Profile%20views&color=brightgreen&style=plastic" alt="Nimesha dilini" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eanimesha&show_icons=true&hide_border=true) <img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="300" height="300" alt="gif here"/>
