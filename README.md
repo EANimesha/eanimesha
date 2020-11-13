@@ -1,5 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EANimesha&label=Profile%20views&color=brightgreen&style=plastic" alt="Nimesha dilini" /> </p>
+
+
 ### Hi there I am Nimesha Dilini 👋  
 #### Software Enginnering Undergraduate, University of Kelaniya<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
