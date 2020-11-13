@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-
-### Hi there I am Nimesha Dilini 👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EANimesha&label=Profile%20views&color=brightgreen&style=plastic" alt="Nimesha dilini" /> </p>
+### Hi there I am Nimesha Dilini 👋  
 #### Software Enginnering Undergraduate, University of Kelaniya<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
@@ -12,6 +12,5 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: nimeshadilini999@gmail.com
 - <b>Open Source Contributer</b> ⚡⚡⚡
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=EANimesha&label=Profile%20views&color=brightgreen&style=plastic" alt="Nimesha dilini" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eanimesha&show_icons=true&hide_border=true) <img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="300" height="300" alt="gif here"/>
