@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EANimesha&label=Profile%20views&color=brightgreen&style=plastic" alt="Nimesha dilini" /> </p>
 
 ### Hi there I am Nimesha Dilini 👋  
-#### Associate Software Engineer | Researcher | Tech enthuastic <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+#### Software Engineer | Researcher | Tech enthuastic <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🌱 I’m currently working as Associate Software Engineer
+- 🌱 I’m currently working as a Software Engineer
 - 🎓 Completed a 4 years degree in Bsc(hons) in Software Engineering , at University of Kelaniya
 - 😄 I am expereinced with full stack development, Web developmeent & Mobila App developments
 - ⚡ I am an tech enthusiastic && seeking Knowledge in areas like Machine Learning, IoT.
