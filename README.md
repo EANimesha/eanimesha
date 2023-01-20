@@ -9,6 +9,7 @@
 - 😄 I am expereinced with full stack development, Web developmeent & Mobila App developments
 - ⚡ I am an tech enthusiastic && seeking Knowledge in areas like Machine Learning, IoT.
 - 📫 How to reach me: nimeshadilini999@gmail.com
+- 📫 How to reach me for academic purposes: nimesha.edu@gmail.com
 - ⚡⚡⚡ Open Source Contributer 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eanimesha&show_icons=true&hide_border=true) <img src="https://github.com/EANimesha/portfolio-new/blob/master/src/assets/images/video.gif" width="300" height="300" alt="gif here"/>
